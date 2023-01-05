@@ -49,7 +49,7 @@ Para o desenvolvimento desse projeto, seguimos as seguintes premissas:
 - H7.Falso | Casas com alto padrão de design sao aproximadamente 200% mais caras
 - H8.Falso | Imoveis não reformados sao aproximadamente 40% mais baratos.
 
-# 7. Resultados Finaneiros para o Negócio
+# 7. Resultados Financeiros para o Negócio
 Após a análise, dentre os 21.435 imóveis disponíveis para a compra na região de King Country, 3808 foram sugeridos para compra e detalhados em relatório.
 Caso os imóveis sugeridos sejam comprados, o investimento inicial esperado é de $11,5 bilhões. 
 Após a revenda de todos os imóveis, o lucro previsto é superior a 1,02 bilhões.

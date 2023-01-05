@@ -31,7 +31,7 @@ Para o desenvolvimento desse projeto, seguimos as seguintes premissas:
 # 4.1 Produto Final
   - Relatório com as sugestões de compra do imóvel por um valor recomendado
   - Relatório com as sugestões de venda de um imóvel por um valor recomendado
-  - Aplicativo contendo detalhes das casas e recomendações: 
+  - Aplicativo contendo detalhes das casas e recomendações: https://lariguim-house-rocket-streamlit-app-akb1o2.streamlit.app/
 
 # 5. Ferramentas
 - Python 3.15
